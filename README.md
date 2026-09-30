@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple Chatbot
 
 A basic Next.js application featuring a chatbot interface powered by Google's Gemini API.
@@ -37,3 +38,6 @@ To start the production server:
 ```bash
 npm start
 ```
+=======
+# AI-powered-chat-bot-
+>>>>>>> f293135a6ed445d1af094c63fb9188d18b5839c5
